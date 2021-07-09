@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/snow.webp");
+    background-image: url("snow.webp");
     background-size: cover;
     background-position: center center;
     font-family: "Poppins", sans-serif;
